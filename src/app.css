@@ -1,0 +1,23 @@
+.App {
+    display: grid;
+    grid-template-columns: repeat(4, 0.5fr);
+    border: 1px solid blue;
+    padding: 10px;
+
+
+}
+
+.img1,
+.img2,
+.img3 {
+    border: 1px solid green;
+    max-width: 200px;
+
+
+}
+
+.logo {}
+
+.img {
+    size: 100%;
+}
